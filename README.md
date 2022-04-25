@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Jugnu Music](https://github.com/kabirsingh2004/JUGNU-MUSIC)
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/kabirsingh2004)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/81CuongVn)
 
 - 💬 Ask me about **Discord Bot Development and Web Developement**
 
@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsingh2004&show_icons=true&locale=en&layout=compact" alt="kabirsingh2004" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&locale=en" alt="kabirsingh2004" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kabirsingh2004&show_icons=true&locale=en" alt="81CuongVn" /></p>
 - 👋 Hi, I’m @81CuongVn
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
