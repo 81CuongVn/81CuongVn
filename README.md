@@ -19,13 +19,13 @@
 
 - 💬 Ask me about **Discord Bot Development and Web Developement**
 
-- 📫 How to reach me [Discord Server](https://discord.gg/PcUVWApWN3)
+- 📫 How to reach me [Discord Server](https://discord.gg/TVeS33Dgrs)
 
 - ⚡ Fun fact **I am SuperHero from Earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kabirjaipal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabirjaipal" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabirjaipal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/c/techboy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/techboy2" height="30" width="40" /></a>
 <a href="https://discord.gg/PcUVWApWN3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
 </p>
