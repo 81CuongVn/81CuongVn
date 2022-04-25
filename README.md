@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004" alt="kabirsingh2004" /></a> </p>
 
-- 🔭 I’m currently working on [Jugnu Music](https://github.com/kabirsingh2004/JUGNU-MUSIC)
+- 🔭 I’m currently working on [John Week ](http://81cuonggl.epizy.com/)
 
 - 🌱 I’m currently learning **JS , ReactJS , Web Developemt , MERN**
 
