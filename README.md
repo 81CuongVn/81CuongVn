@@ -2,7 +2,7 @@
 <h3 align="center">A Web and Discord Bot Developer From Viet Nam</h3>
 
 <img align="center" src="https://tse2.mm.bing.net/th?id=OIP.BQi3XPddEjI9W3ZCqOjxOwHaD_&pid=Api&P=0&w=325&h=175" alt="Discord"/>
-<p align="right"> <img src="https://discord.c99.nl/widget/theme-2/922183934899523594.png" alt="81CuongVn" /> </p>
+<p align="left"> <img src="https://discord.c99.nl/widget/theme-2/922183934899523594.png" alt="81CuongVn" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=81CuongVn" alt="81CuongVn" /></a> </p>
