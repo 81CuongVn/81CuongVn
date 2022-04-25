@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Tôi là 81CuongVn (John Week)</h1>
 <h3 align="center">A Web and Discord Bot Developer From Viet Nam</h3>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-2/John Week  ♌#8686.png" alt="Discord"/>
+<img align="center" src="https://www.film-rezensionen.de/wp-content/uploads/2015/06/John-Wick-Szene-3.jpg" alt="Discord"/>
 
 <p align="left"> <img src="http://81cuonggl.epizy.com/" /> </p>
 
