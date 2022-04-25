@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="http://81cuonggl.epizy.com/" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004" alt="kabirsingh2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=81CuongVn" alt="81CuongVn" /></a> </p>
 
 - 🔭 I’m currently working on [John Week ](http://81cuonggl.epizy.com/)
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabirjaipal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNE4yy2XWJMk1og08Oxp6wQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCNE4yy2XWJMk1og08Oxp6wQ" height="30" width="40" /></a>
-<a href="https://discord.gg/PcUVWApWN3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
+<a href="https://discord.gg/TVeS33Dgrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
