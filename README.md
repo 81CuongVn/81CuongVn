@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **JS , ReactJS , Web Developemt , MERN**
 
-- 👯 I’m looking to collaborate on [Jugnu Music](https://github.com/kabirsingh2004/JUGNU-MUSIC)
+- 👯 I’m looking to collaborate on [Music-bot-V11](https://github.com/81CuongVn/music-bot-v11)
 
-- 🤝 I’m looking for help with [Jugnu Music](https://github.com/kabirsingh2004/JUGNU-MUSIC)
+- 🤝 I’m looking for help with [Music-bot-V11](https://github.com/81CuongVn/music-bot-v11)
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/81CuongVn)
 
