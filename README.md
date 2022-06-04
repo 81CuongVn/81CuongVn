@@ -28,7 +28,7 @@
 <a href="https://instagram.com/to_thanh_cuong_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabirjaipal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/batmi.bimat.543/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kabirjaipal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNE4yy2XWJMk1og08Oxp6wQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCNE4yy2XWJMk1og08Oxp6wQ" height="30" width="40" /></a>
-<a href="https://discord.gg/TVeS33Dgrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
+<a href="https://discord.gg/5rSuS8NWG7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PcUVWApWN3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
