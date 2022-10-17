@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: jasineri/gitartwork@v1
+      - uses: 81CuongVn/gitartwork@v1
         with:
            user_name: 
            text: 81CUONGVN
-      - uses: jasineri/simple-push-action@v1
+      - uses: 81CuongVn/simple-push-action@v1
