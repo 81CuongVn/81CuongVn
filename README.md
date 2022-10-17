@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Tôi là 81CuongVn (John Week)</h1>
 <h3 align="center">A Web and Discord Bot Developer From Viet Nam</h3>
-![gitartwork](gitartwork.svg)
+![gitartwork](gitartwork.svg)(https://github.com/81CuongVn/81CuongVn/blob/main/gitartwork.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
 
