@@ -73,6 +73,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=81CuongVn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=81CuongVn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)/
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsingh2004&show_icons=true&locale=en&layout=compact" alt="kabirsingh2004" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=81CuongVn&show_icons=true&locale=en" alt="81CuongVn" /></p>
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
