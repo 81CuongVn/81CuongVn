@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **I am SuperHero from Earth**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&redirect=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -77,6 +76,8 @@ Chào bạn hãy đến với cộng đồng Github của VN nhé!!!
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/V7V2CK7GD#paypalModal) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&redirect=true)
   
  
   
