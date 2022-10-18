@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I am SuperHero from Earth**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&redirect=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/to_thanh_cuong_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabirjaipal" height="30" width="40" /></a>
@@ -76,5 +78,5 @@ Chào bạn hãy đến với cộng đồng Github của VN nhé!!!
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31afjy376c6xxy3pp6pfndajktju&redirect=true)
+ 
   
