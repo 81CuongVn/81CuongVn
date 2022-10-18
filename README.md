@@ -62,8 +62,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=81CuongVn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
+<p>
 ![](https://github-profile-trophy.vercel.app/?username=81CuongVn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+</p>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
