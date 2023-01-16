@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 
   ## 💰You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/V7V2CK7GD#paypalModal)
-  [![Buy me coffee](https://www.buymeacoffee.com/alan45walkA)
+  [Buy me coffee](https://www.buymeacoffee.com/alan45walkA)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
